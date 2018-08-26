@@ -1,0 +1,9 @@
+Objectives:
+	- The need for Big-O-Notation 
+	- Describe it
+	- Simplify Big-O Expressions 
+	- Define "time/space" complexity
+	- Evaluate the time complexity and space complexity of different algorithms usings Big-O-Notation 
+	- Describe what a logarithm is
+
+
