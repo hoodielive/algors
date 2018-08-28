@@ -1,0 +1,3 @@
+[submodule "javascript/100/100AlgorithmsChallenge"]
+	path = javascript/100/100AlgorithmsChallenge
+	url = https://github.com/PizzaPokerGuy/100AlgorithmsChallenge.git
