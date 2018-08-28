@@ -1,0 +1,6 @@
+Notes 
+
+Space complexity, deals with how much memory is used 
+Time complexity, dealws with how many primitive operations are executed 
+
+regarding.. { input size & assuming worst case scenarios } 
