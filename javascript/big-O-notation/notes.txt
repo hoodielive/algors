@@ -36,3 +36,7 @@ function addUpTo(n) {
 }
 
 - if there is a nested for loop inside of a for loop, you'll get O(n)O(n) which is => O(n√) 
+
+O(1), O(n) O(n2) 
+
+log(base2) of (8) = 3
