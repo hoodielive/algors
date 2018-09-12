@@ -6,4 +6,8 @@ function reverse(str) {
 }
 
 
+function reversed(str) {
+  debugger; 
+  return str.split('').reduce((rev, char) => char + rev, ''); 
+}
 module.exports = reverse; 
