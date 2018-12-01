@@ -1,0 +1,6 @@
+#+TITLE: Javascript Algorithms and Data Structures
+#+AUTHOR: Larry
+
+* Linked Lists 
+  + A linked list is a linear collection of data elements, in which linear order is not given by their physical placement in 
+    memory. 
