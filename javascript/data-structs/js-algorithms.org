@@ -1,11 +1,11 @@
 #+TITLE: Javascript Algorithms and Data Structures
 #+AUTHOR: Larry
 
-* Linked Lists 
-  + A linked list is a linear collection of data elements, in which linear order is not given by their physical placement in 
-    memory. 
-  + A group of nodes which together represent a sequence.
-  + Each node is composed of data and a reference (link) to the next node in the sequence. 
-  + Linked lists are slow because they are linear. 
-  + Arrays may prove to be a better choice if cache locality, faster access like random accessed is a factor. 
+** Linked Lists 
+   + A linked list is a linear collection of data elements, in which linear order is not given by their physical placement in 
+     memory. 
+   + A group of nodes which together represent a sequence.
+   + Each node is composed of data and a reference (link) to the next node in the sequence. 
+   + Linked lists are slow because they are linear. 
+   + Arrays may prove to be a better choice if cache locality, faster access like random accessed is a factor. 
     
