@@ -10,5 +10,8 @@
     "testEnvironment": "node"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.9.6"
+  }
 }
